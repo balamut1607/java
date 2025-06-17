@@ -4,5 +4,8 @@ public class Main {
     public static void main(String[] args) {
         // -A додати все що є в проєкті
         // git rm --cached прописується задля того, щоб відмінити додавання файлу\-ів до commit
+        // git commit -m "" команда для додавання файлів до commit. -m "" тут має бути коментарій,
+        // без нього процес комітування не відбудеться
+        System.out.println("Hello");
         }
     }
