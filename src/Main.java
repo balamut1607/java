@@ -9,6 +9,7 @@ public class Main {
         // touch... створити якийсь файл
         //  git branch створення гілки
         // git checkout перехід на гілку
+        // git merge виконується з'єднання (злиття) гілок
         System.out.println("Hello");
         }
     }
