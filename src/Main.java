@@ -7,6 +7,8 @@ public class Main {
         // git commit -m "" команда для додавання файлів до commit. -m "" тут має бути коментарій,
         // без нього процес комітування не відбудеться
         // touch... створити якийсь файл
+        //  git branch створення гілки
+        // git checkout перехід на гілку
         System.out.println("Hello");
         }
     }
