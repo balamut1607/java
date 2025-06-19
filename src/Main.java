@@ -10,6 +10,13 @@ public class Main {
         //  git branch створення гілки
         // git checkout перехід на гілку
         // git merge виконується з'єднання (злиття) гілок
+        // git remote завдяки цій команді можна подивитися до якого
+        // віддаленого репозиторію ми зараз підключені
+        // git remote add origin https://github.com/balamut1607/java.git команда для підключення
+        // до віддаленого репозиторію, де замість origin може бути будь-яка ін назва
+        //  git remote remove origin для відключення від віддален. репозиторію
+        // git push -u origin main вивантаження даних проєкту до репозиторію,
+        // де main це назва вивантажуваної гілки
         System.out.println("Hello");
         }
     }
